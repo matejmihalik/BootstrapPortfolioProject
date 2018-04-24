@@ -18,6 +18,11 @@
   z-index: 10;
 }
 
+.carousel-caption ul {
+  padding: 0;
+  list-style: none;
+}
+
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 240px;
